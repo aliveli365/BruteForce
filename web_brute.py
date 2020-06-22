@@ -3,7 +3,7 @@ import subprocess
 
 
 subprocess.call('clear', shell=True)
-header =  {"Cookies" : "security= low; PHPSESSID:f6612757495af90e878e674d2e34947e;"}
+header =  {"Cookies" : ""}
 url = input("Url giriniz:")
 
 dosya = open("fuzz.txt", "r")
