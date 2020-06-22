@@ -1,0 +1,7 @@
+/admin/
+/wp-login.php/
+/wp-content.php/
+/robots.txt/
+/sitemap.xml/
+/index.php/
+
